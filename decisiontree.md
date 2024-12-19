@@ -2,7 +2,11 @@
 
 Welcome to the **Enchanted Forest**! Your decisions will determine how your adventure unfolds. Make your choices wisely—your fate depends on it!
 
+![Flowchart](Programming_Language_Selection_Flowchart.png)
 ---
+
+![Flowtest](https://github.com/user-attachments/assets/def70fcc-de63-4508-8226-b827caed7b2b)
+
 
 ## Starting Point: Enter the Forest
 
