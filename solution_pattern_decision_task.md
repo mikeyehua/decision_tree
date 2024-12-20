@@ -3,6 +3,9 @@
 This is a guide on how to match a use case to a solution pattern. You need to start from [Starting Point](#starting-point-identified-Archetype)
 
 ![Decision Tree to map use case to Solution Patterns](image.png)
+
+
+
 ---
 
 
