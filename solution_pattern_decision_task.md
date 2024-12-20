@@ -4,7 +4,7 @@ This is a guide on how to match a use case to a solution pattern. You need to st
 
 ![Decision Tree to map use case to Solution Patterns](image.png)
 
-![Flowtest](https://github.com/user-attachments/assets/def70fcc-de63-4508-8226-b827caed7b2b)
+![Flowtest]([https://github.com/user-attachments/assets/def70fcc-de63-4508-8226-b827caed7b2b](https://github.com/mikeyehua/decision_tree/blob/main/solution_decision_tree.png)
 
 ---
 
